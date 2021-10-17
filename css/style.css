@@ -1,0 +1,15 @@
+@import url
+ ('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Permanent+Marker&family=Roboto:wght@100&display=swap');
+
+ *{
+ 	font-family: 'Open Sans', sans-serif;
+ }
+
+ h2 {
+ 	font-family: 'Roboto', sans-serif;
+ }
+
+ h1 {
+ 	font-family: 'Permanent Marker', cursive;
+ 	font-size: 70px;
+ }
